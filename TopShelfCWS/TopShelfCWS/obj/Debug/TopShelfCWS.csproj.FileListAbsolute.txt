@@ -1,0 +1,7 @@
+c:\users\cfrancis.psclistens\documents\visual studio 2015\Projects\TopShelfCWS\TopShelfCWS\bin\Debug\TopShelfCWS.exe.config
+c:\users\cfrancis.psclistens\documents\visual studio 2015\Projects\TopShelfCWS\TopShelfCWS\bin\Debug\TopShelfCWS.exe
+c:\users\cfrancis.psclistens\documents\visual studio 2015\Projects\TopShelfCWS\TopShelfCWS\bin\Debug\TopShelfCWS.pdb
+c:\users\cfrancis.psclistens\documents\visual studio 2015\Projects\TopShelfCWS\TopShelfCWS\bin\Debug\Topshelf.dll
+c:\users\cfrancis.psclistens\documents\visual studio 2015\Projects\TopShelfCWS\TopShelfCWS\bin\Debug\Topshelf.xml
+c:\users\cfrancis.psclistens\documents\visual studio 2015\Projects\TopShelfCWS\TopShelfCWS\obj\Debug\TopShelfCWS.exe
+c:\users\cfrancis.psclistens\documents\visual studio 2015\Projects\TopShelfCWS\TopShelfCWS\obj\Debug\TopShelfCWS.pdb
